@@ -22,7 +22,7 @@ eos
   s.bindir = 'bin'
   s.executables << 'nfsadmin'
   s.required_ruby_version = '~> 2.0'
-  s.add_development_dependency('rake', '~> 10.2' )
+  s.add_development_dependency('rake', '~> 12.3' )
   s.add_development_dependency('rdoc', '~> 4.1')
   s.add_development_dependency('aruba', '~> 0.5')
   s.add_runtime_dependency('gli','~> 2.9')
